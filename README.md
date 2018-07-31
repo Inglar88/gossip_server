@@ -1,4 +1,4 @@
-# gossip1
+# gossip_test
 
 
 > A Node.js project
