@@ -1,0 +1,18 @@
+{
+  "server" : {
+    "port": 3000,
+    "db" : {
+      "url": "mongodb://",
+      "host": "localhost",
+      "port":"27017",
+      "db_name":"gossip"
+    }
+  },
+  "vk": {
+    "api": {
+      "v": 5.80,
+      "group_id": "169285386",
+      "access_token": "06d1ad494b3f5f5648484daf82bc779f9468e26f01c8b111d7b465a174ef9c4de4d8bd37999aad072fdee"
+    }
+  }
+}
